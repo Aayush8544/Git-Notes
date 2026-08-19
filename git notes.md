@@ -58,5 +58,17 @@ How to become collaborators in git hub?
 -> Open your repository -> Settings -> collaborators -> add people -> find people(GitHub username or GitHub email address)-> add to repository
 * Once we add a user to collaborator, the user will get a confirmation mail to become collaborator.
 
+GitHub Fork
+GitHub allows other users to make a copy of an existing GitHub repositories in their own accounts.
+A fork is copy of an an existing GitHub repositories
+It doesn't automatically gets updated with the changes done in original repository, we have to use Sync fork in the forked repository.
+
+A Pull Request is a request that is used when we want to contribute changes to a particular repository.
+A pull request can be created only for forked repositories.
+A pull request can be created in git hub by using the following steps:
+-> Pull Requests -> new pull request -> confirm/verify changes -> create pull request
+
+
+
 
 
